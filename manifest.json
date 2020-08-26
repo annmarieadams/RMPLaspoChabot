@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "RMPLaspoChabot",
     "version": "0.1",
-    "description": "Search for a professor's name on Rate My Professor by highlighting their name.",
+    "description": "Search for a professor's name on Rate My Professors by highlighting their name.",
      "icons": { 
          "16": "icon.png", 
 		 "48": "icon.png", 
